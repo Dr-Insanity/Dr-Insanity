@@ -1,5 +1,5 @@
 # Greetings!
-My name is [redacted], I'm a 23 years old male. I don't care what you call me. All I know is whenever I look down, I see a man, and that is what partially defines me and how I behave. That is logical, don't you agree? Personality, of course, says more.
+My name is [redacted], I'm a 24 years old male. I don't care what you call me. All I know is whenever I look down, I see a man, and that is what partially defines me and how I behave. That is logical, don't you agree? Personality, of course, says more.
 
 ### Characteristics
 - Optimistic, but factual
