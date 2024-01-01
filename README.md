@@ -18,7 +18,7 @@ I believe discipline is that one thing this generation must pick up again. I wis
 As of now, I don't have much to *"brag"* about. But below, you can find what I've been mainly working with & what I currently work on the most.
 
 ### Discord
-- <a href="https://discord.gg/2chKZTMvXc"><img src="https://img.shields.io/discord/534450100890763302?style=for-the-badge&logo=discord&logoColor=blurple"/></a>
+- <a href="https://discord.gg/stopjoining"><img src="https://img.shields.io/discord/534450100890763302?style=for-the-badge&logo=discord&logoColor=blurple"/></a>
 
 ### My stack *(I still need cheatsheets)*
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=5539cc)
