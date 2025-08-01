@@ -1,21 +1,20 @@
 # Greetings!
-My name is [redacted], I'm a 24 years old male. I don't care what you call me. All I know is whenever I look down, I see a man, and that is what partially defines me and how I behave. That is logical, don't you agree? Personality, of course, says more.
+My name is [redacted], I'm a 26 years old dude. I don't do pronouns.
 
 ### Characteristics
 - Optimistic, but factual
-- Fairly gullible, but willing to replace ignorancy with truth/facts.
-- Open and honest
-- Helpful by nature
-- Fairly autistic, level of symptoms varies from day to day (Social interactions, for example, isn't much of a problem at all)
+- Open for feedback. 
+- Open and honest.
+- Helpful by nature.
 
 Here to learn and here to share. I strive to get the most out of myself; Pushing myself to learn new things in the IT, not necessarily anything coding-related.
 I will keep on learning till I can pretty much do everything with ease. Sure, learning never ends, but there's going to be a time where you know enough to bend anything to your preferences. To code your applications that are advanced yet easily made, thanks to your experience that brought you to this point.
 
 Sometimes we need to remind ourselves why we do it and what we achieve by doing the necessary. A wishbone wouldn't help us to get what we want. We __must__ take actions, and those actions are nearly always actions we don't like. But they have to happen, so that we're better off in the future.
 
-I believe discipline is that one thing this generation must pick up again. I wish everyone knew that discipline is the way to go.
-
 As of now, I don't have much to *"brag"* about. But below, you can find what I've been mainly working with & what I currently work on the most.
+
+Worth mentioning, whenever I'm honest with friends, they turn a full blind eye to my flaws just to be nice. Yeah, not cool. Be real with me. Go freaking hurt me. I prefer truth over sugar-coated words. I need to learn. 
 
 ### Discord
 - <a href="https://discord.gg/stopjoining"><img src="https://img.shields.io/discord/534450100890763302?style=for-the-badge&logo=discord&logoColor=blurple"/></a>
